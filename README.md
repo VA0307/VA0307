@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VANSHIT AGGARWAL
-- 👀 I’m interested in IOS App Development
+- 👀 I’m interested in web as well as app Development
 - 🌱 I’m currently learning IOS App Development
 - 💞️ I’m looking to collaborate on any project related to the field
 - 📫 How to reach me on linked in @vanshitaggarwal
